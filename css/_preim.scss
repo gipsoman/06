@@ -1,5 +1,5 @@
 #advant {
-    width: 95%;
+    // width: 100%;
     margin: 0 auto;
     h2 {
         margin: 1rem;
@@ -9,13 +9,14 @@
 }
 
 .cardsection {
-    width: 90%;
-    margin: 0 auto;
+    // width: 90%;
+    margin: 0 1rem;
 }
 
 .card {
     display: flex;
     align-items: center;
+    justify-content: space-between;
     margin-bottom: 1rem;
     min-height: 132px;
     background: #F4F2EF;
@@ -23,11 +24,11 @@
 }
 
 .card_img {
-    padding: 0 .5rem 0 1rem;
+    margin: 0 1rem;
 }
 
 .card_title {
-    padding: 0 .5rem 0 0;
+    margin: 0 .5rem;
     text-align: center;
     h4 {
         font-weight: 300;

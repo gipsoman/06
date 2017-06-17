@@ -2,19 +2,23 @@ header {
   position:relative;
   // display:block;
   width: 100%;
-  min-height: 256px;
-  background:url(../img/banner-all.jpeg) no-repeat ;
+  min-height: 356px;
+  background:url(../img/banner-3.png) 100% 100% no-repeat ;
   background-size: cover;
   text-align: center;
 
-  .logo {
-    margin-top: 12px;
-  }
+
+ 
 }
-.header_top {
-  svg {
+.header_top { 
+  max-height:130px;
+  .logo {
+    margin-top: 12px;  
+  }
+    svg {
     width: 72px;
   }
+
 }
 .slogan {
 text-align:center;
@@ -36,7 +40,7 @@ p{
   position: absolute;
   bottom:0;
   width: 100%;
-  min-height: 45%;
+  min-height: 50%;
 
 
 
@@ -53,7 +57,7 @@ color:#ffffff;
  h1 {
   font-weight:700;
   font-style: italic;
-  font-size: .8rem;
+  font-size: 1.1rem;
   text-transform: uppercase;
   letter-spacing:0;
   margin: 0 .5rem;
@@ -62,9 +66,9 @@ color:#ffffff;
   }
   }
   h5 {
-  font-size: .6rem;
+  font-size: .7rem;
   font-weight: 400;
-  margin: .6rem 0;
+  // margin: .6rem 0;
   }
   button {
     border-radius: 4px;
@@ -72,11 +76,11 @@ color:#ffffff;
     text-transform: uppercase;
     border: none;
     // display: inline-block;
-    padding: .3rem 1rem;
+    padding: .8rem 1.25rem;
     // vertical-align: middle;
     // text-align: center;
     background: #FFC05C;
-    font-size: 13px;
+    font-size: 1rem;
     color: #2D2D2D;
 }
 }
