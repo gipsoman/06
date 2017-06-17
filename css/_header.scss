@@ -1,6 +1,6 @@
 header {
   position:relative;
-  display:block;
+  // display:block;
   width: 100%;
   height: 80vw;
   background:url(../img/banner-all.jpeg) no-repeat ;
@@ -36,13 +36,18 @@ p{
   position: absolute;
   bottom:0;
   width: 100%;
-  min-height: 30%;
+  min-height: 45%;
 
 
 
-}
-.title {
-margin: 0 .5rem ;
+// }
+// .title {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  align-items:center;
+
+// margin: 0 .5rem ;
 text-align:center;
 color:#ffffff;
  h1 {
@@ -51,6 +56,7 @@ color:#ffffff;
   font-size: .8rem;
   text-transform: uppercase;
   letter-spacing:0;
+  margin: 0 .5rem;
   span{
     text-decoration: underline;
   }
@@ -58,16 +64,17 @@ color:#ffffff;
   h5 {
   font-size: .6rem;
   font-weight: 400;
+  margin: .6rem 0;
   }
   button {
     border-radius: 4px;
     font-weight: 300;
     text-transform: uppercase;
     border: none;
-    display: inline-block;
+    // display: inline-block;
     padding: .3rem 1rem;
     // vertical-align: middle;
-    text-align: center;
+    // text-align: center;
     background: #FFC05C;
     font-size: 13px;
     color: #2D2D2D;
