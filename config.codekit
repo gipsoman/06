@@ -2,6 +2,24 @@
 "CodeKitInfo": "This is a CodeKit 2.x project configuration file. It is designed to sync project settings across multiple machines. MODIFYING THE CONTENTS OF THIS FILE IS A POOR LIFE DECISION. If you do so, you will likely cause CodeKit to crash. This file is not useful unless accompanied by the project that created it in CodeKit 2. This file is not backwards-compatible with CodeKit 1.x. For more information, see: http:\/\/incident57.com\/codekit",
 "creatorBuild": "19051",
 "files": {
+	"\/_Source\/font\/transfonter.org-20170617-081332\/demo.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_Source\/font\/transfonter.org-20170617-081332\/demo.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/_Source\/font\/transfonter.org-20170617-081332\/stylesheet.css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_Source\/font\/transfonter.org-20170617-081332\/stylesheet.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
 	"\/_Source\/Untitled\/02372867-011A-41C4-8771-8E3F0386E6B0\/artboard.png": {
 		"fileType": 32768,
 		"ignore": 0,
@@ -4678,6 +4696,22 @@
 		"shouldRunBless": 0,
 		"useLibsass": 0
 		},
+	"\/css\/_global.scss": {
+		"createSourceMap": 0,
+		"debugStyle": 0,
+		"decimalPrecision": 10,
+		"fileType": 4,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/css\/_global.scss",
+		"outputAbbreviatedPath": "\/css\/_global.css",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0,
+		"shouldRunAutoprefixer": 0,
+		"shouldRunBless": 0,
+		"useLibsass": 0
+		},
 	"\/css\/_header.scss": {
 		"createSourceMap": 0,
 		"debugStyle": 0,
@@ -4726,6 +4760,22 @@
 		"shouldRunBless": 0,
 		"useLibsass": 0
 		},
+	"\/css\/_preim.scss": {
+		"createSourceMap": 0,
+		"debugStyle": 0,
+		"decimalPrecision": 10,
+		"fileType": 4,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/css\/_preim.scss",
+		"outputAbbreviatedPath": "\/css\/_preim.css",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0,
+		"shouldRunAutoprefixer": 0,
+		"shouldRunBless": 0,
+		"useLibsass": 0
+		},
 	"\/css\/main.css": {
 		"fileType": 16,
 		"ignore": 1,
@@ -4751,6 +4801,48 @@
 		"shouldRunBless": 0,
 		"useLibsass": 0
 		},
+	"\/fonts\/stylesheet.css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/fonts\/stylesheet.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/img\/banner-100.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 100706,
+		"inputAbbreviatedPath": "\/img\/banner-100.jpg",
+		"outputAbbreviatedPath": "\/img\/banner-100.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/banner-2.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 174128,
+		"inputAbbreviatedPath": "\/img\/banner-2.png",
+		"outputAbbreviatedPath": "\/img\/banner-2.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/banner-60-2.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 23541,
+		"inputAbbreviatedPath": "\/img\/banner-60-2.jpg",
+		"outputAbbreviatedPath": "\/img\/banner-60-2.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/img\/banner-60.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -4758,6 +4850,28 @@
 		"initialSize": 17653,
 		"inputAbbreviatedPath": "\/img\/banner-60.jpg",
 		"outputAbbreviatedPath": "\/img\/banner-60.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/banner-all.jpeg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 18357,
+		"inputAbbreviatedPath": "\/img\/banner-all.jpeg",
+		"outputAbbreviatedPath": "\/img\/banner-all.jpeg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/banner-all.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 106233,
+		"inputAbbreviatedPath": "\/img\/banner-all.jpg",
+		"outputAbbreviatedPath": "\/img\/banner-all.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -4806,11 +4920,44 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/img\/logo.jpg": {
+	"\/img\/banner_buttom.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 6620,
+		"inputAbbreviatedPath": "\/img\/banner_buttom.jpg",
+		"outputAbbreviatedPath": "\/img\/banner_buttom.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/banner_top.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 12156,
+		"inputAbbreviatedPath": "\/img\/banner_top.jpg",
+		"outputAbbreviatedPath": "\/img\/banner_top.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/logo-2.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"initialSize": 4862,
+		"inputAbbreviatedPath": "\/img\/logo-2.jpg",
+		"outputAbbreviatedPath": "\/img\/logo-2.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/logo.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 4749,
 		"inputAbbreviatedPath": "\/img\/logo.jpg",
 		"outputAbbreviatedPath": "\/img\/logo.jpg",
 		"outputPathIsOutsideProject": 0,
@@ -4824,6 +4971,116 @@
 		"initialSize": 6839,
 		"inputAbbreviatedPath": "\/img\/logo.png",
 		"outputAbbreviatedPath": "\/img\/logo.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/untitled folder\/banner copy.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 24125,
+		"inputAbbreviatedPath": "\/img\/untitled folder\/banner copy.jpg",
+		"outputAbbreviatedPath": "\/img\/untitled folder\/banner copy.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/untitled folder\/Mask.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 21849,
+		"inputAbbreviatedPath": "\/img\/untitled folder\/Mask.jpg",
+		"outputAbbreviatedPath": "\/img\/untitled folder\/Mask.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/untitled folder\/Mask.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 1337,
+		"inputAbbreviatedPath": "\/img\/untitled folder\/Mask.png",
+		"outputAbbreviatedPath": "\/img\/untitled folder\/Mask.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/untitled folder\/Mask@2.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 4919,
+		"inputAbbreviatedPath": "\/img\/untitled folder\/Mask@2.jpg",
+		"outputAbbreviatedPath": "\/img\/untitled folder\/Mask@2.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/untitled folder\/Mask@2.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 3559,
+		"inputAbbreviatedPath": "\/img\/untitled folder\/Mask@2.png",
+		"outputAbbreviatedPath": "\/img\/untitled folder\/Mask@2.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/untitled folder\/Mask@2_b.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 4019,
+		"inputAbbreviatedPath": "\/img\/untitled folder\/Mask@2_b.jpg",
+		"outputAbbreviatedPath": "\/img\/untitled folder\/Mask@2_b.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/untitled folder\/Mask@2_b.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 2709,
+		"inputAbbreviatedPath": "\/img\/untitled folder\/Mask@2_b.png",
+		"outputAbbreviatedPath": "\/img\/untitled folder\/Mask@2_b.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/untitled folder\/Mask_b.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 1769,
+		"inputAbbreviatedPath": "\/img\/untitled folder\/Mask_b.jpg",
+		"outputAbbreviatedPath": "\/img\/untitled folder\/Mask_b.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/untitled folder\/Mask_b.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 749,
+		"inputAbbreviatedPath": "\/img\/untitled folder\/Mask_b.png",
+		"outputAbbreviatedPath": "\/img\/untitled folder\/Mask_b.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/untitled folder\/Page 1.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 122208,
+		"inputAbbreviatedPath": "\/img\/untitled folder\/Page 1.jpg",
+		"outputAbbreviatedPath": "\/img\/untitled folder\/Page 1.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0

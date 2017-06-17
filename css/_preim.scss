@@ -1,0 +1,37 @@
+#advant {
+    width: 95%;
+    margin: 0 auto;
+    h2 {
+        margin: 1rem;
+        text-transform: uppercase;
+        text-align: center;
+    }
+}
+
+.cardsection {
+    width: 90%;
+    margin: 0 auto;
+}
+
+.card {
+    display: flex;
+    align-items: center;
+    margin-bottom: 1rem;
+    min-height: 132px;
+    background: #F4F2EF;
+    border-radius: 8px;
+}
+
+.card_img {
+    padding: 0 .5rem 0 1rem;
+}
+
+.card_title {
+    padding: 0 .5rem 0 0;
+    text-align: center;
+    h4 {
+        font-weight: 300;
+        font-size: 1.25rem;
+        text-transform: uppercase;
+    }
+}

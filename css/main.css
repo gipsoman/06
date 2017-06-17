@@ -7,7 +7,6 @@
  */
 /* Document
    ========================================================================== */
-@import url("https://fonts.googleapis.com/css?family=Roboto+Condensed:300,300i,400,400i,700,700i&subset=cyrillic");
 html {
   font-family: sans-serif;
   /* 1 */
@@ -404,36 +403,103 @@ template {
   display: none; }
 
 html {
-  font-size: 16px;
-  font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; }
+  font-size: 16px; }
 
 header {
+  position: relative;
+  display: block;
   width: 100%;
-  height: 50vh;
-  background: url(../img/banner-60.jpg) no-repeat;
+  height: 80vw;
+  background: url(/img/banner-all.jpeg) no-repeat;
   background-size: cover;
   text-align: center; }
   header .logo {
     margin-top: 12px; }
 
+.header_top svg {
+  width: 24vw; }
+
 .slogan {
-  margin: 0 2rem;
-  text-align: center;
-  background: #2D2D2D;
-  border-radius: 7px;
-  font-family: 'Roboto Condensed', sans-serif;
-  font-size: .8rem;
-  text-transform: uppercase;
-  color: #ffc05c;
-  letter-spacing: 0; }
+  text-align: center; }
+  .slogan p {
+    font-weight: bold;
+    display: inline;
+    font-size: .8rem;
+    color: #ffc05c;
+    text-transform: uppercase;
+    background: #2D2D2D;
+    border-radius: .4rem;
+    padding: .25rem .7rem; }
+
+.header_buttom {
+  background: rgba(0, 0, 0, 0.6);
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  min-height: 30%; }
 
 .title {
-  padding: 0 10px;
-  margin-top: 2.6rem;
-  text-align: center; }
+  margin: 0 0.5rem;
+  text-align: center;
+  color: #ffffff; }
   .title h1 {
-    font-family: 'Roboto Condensed', sans-serif;
+    font-weight: 700;
+    font-style: italic;
     font-size: .8rem;
     text-transform: uppercase;
-    color: #ffffff;
     letter-spacing: 0; }
+    .title h1 span {
+      text-decoration: underline; }
+  .title h5 {
+    font-size: .6rem;
+    font-weight: 400; }
+  .title button {
+    border-radius: 4px;
+    font-weight: 300;
+    text-transform: uppercase;
+    border: none;
+    display: inline-block;
+    padding: .3rem 1rem;
+    text-align: center;
+    background: #FFC05C;
+    font-size: 13px;
+    color: #2D2D2D; }
+
+html {
+  font-family: 'Roboto Condensed', sans-serif; }
+@font-face {
+  html {
+    font-family: 'Roboto Condensed';
+    src: url("../fonts/RobotoCondensed-Regular.woff") format("woff");
+    font-weight: normal;
+    font-style: normal; } }
+#advant {
+  width: 95%;
+  margin: 0 auto; }
+  #advant h2 {
+    margin: 1rem;
+    text-transform: uppercase;
+    text-align: center; }
+
+.cardsection {
+  width: 90%;
+  margin: 0 auto; }
+
+.card {
+  display: flex;
+  align-items: center;
+  margin-bottom: 1rem;
+  min-height: 132px;
+  background: #F4F2EF;
+  border-radius: 8px; }
+
+.card_img {
+  padding: 0 .5rem 0 1rem; }
+
+.card_title {
+  padding: 0 .5rem 0 0;
+  text-align: center; }
+  .card_title h4 {
+    font-weight: 300;
+    font-size: 1.25rem;
+    text-transform: uppercase; }
