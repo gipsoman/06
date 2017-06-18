@@ -7,8 +7,9 @@
         <meta name="description" content="">
         <meta name="viewport" content="width=device-width, initial-scale=1">
         <meta http-equiv="Cache-Control" content="no-cache">
+		<link rel="stylesheet" href="css/main.css"/>
 
-        <link rel="stylesheet" href="css/main.css" media="handheld,only screen and (max-device-width:480px)"/>
+        <!-- <link rel="stylesheet" href="css/main.css" media="handheld,only screen and (max-device-width:480px)"/> -->
 
 		<link rel="apple-touch-icon" sizes="180x180" href="/favicons/apple-touch-icon.png">
 		<link rel="icon" type="image/png" sizes="32x32" href="/favicons/favicon-32x32.png">
@@ -75,7 +76,7 @@
                 <h1>Гипсокартонные потолки, стены, перегородки для Ваших объектов всего от <span>100</span> грн м<sup>2</sup>
                             	</h1>
                
-                <button>Оформить</button>
+                <label class="button" for="modal-2">Оформить</label>
                 <h5>Оформить заявку на бесплатную консультацию</h5>
             <!-- </div> -->
         </div>
@@ -370,6 +371,30 @@
     		</div>
     	</div>
     </section>
+<div class="modal">
+  <input class="modal-open" id="modal-2" type="checkbox" hidden>
+  <div class="modal-wrap" aria-hidden="true" role="dialog">
+    <label class="modal-overlay" for="modal-2"></label>
+    <div class="modal-dialog">
+      <div class="modal-header">
+        <h2>ПОЗВОНИТЕ</h2>
+        <div class="modal-phone">
+        <a href="tel:+380672718678">+38(067) 271 96 78</a>
+        </div>
+        <p>или оставитьте заявку на сайте</p>
+      </div>
+      <div class="modal-body">
+          <form >
+	         <input name="name" placeholder="* Укажите ваше имя" class="textbox" required />
+	         <input name="emailaddress" placeholder="* Укажите ваш Email" class="textbox" type="email" required />
+              <input name="submit" class="button" type="submit" value="Отправить" />
+          </form>
+      </div>
+      	
+      <label class="btn-close" for="modal-2" aria-hidden="true">×</label>
+    </div>
+  </div>
+</div>
   
 <div style="height: 500px;background: pink"></div>
 </body>

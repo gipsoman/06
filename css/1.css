@@ -458,12 +458,13 @@ header {
   .header_buttom h5 {
     font-size: .7rem;
     font-weight: 400; }
-  .header_buttom button {
-    border-radius: 4px;
-    font-weight: 300;
-    text-transform: uppercase;
-    border: none;
-    padding: .8rem 1.25rem;
-    background: #FFC05C;
-    font-size: 1rem;
-    color: #2D2D2D; }
+
+.button {
+  border-radius: 4px;
+  font-weight: 300;
+  text-transform: uppercase;
+  border: none;
+  padding: .8rem 1.25rem;
+  background: #FFC05C;
+  font-size: 1rem;
+  color: #2D2D2D; }

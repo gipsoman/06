@@ -167,6 +167,24 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/_Source\/modal-window-checkbox\/index.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_Source\/modal-window-checkbox\/index.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/_Source\/modal-window-checkbox\/style.css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_Source\/modal-window-checkbox\/style.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
 	"\/_Source\/Untitled\/02372867-011A-41C4-8771-8E3F0386E6B0\/artboard.png": {
 		"fileType": 32768,
 		"ignore": 0,
@@ -4884,6 +4902,22 @@
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/css\/_header1.scss",
 		"outputAbbreviatedPath": "\/css\/_header1.css",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0,
+		"shouldRunAutoprefixer": 0,
+		"shouldRunBless": 0,
+		"useLibsass": 0
+		},
+	"\/css\/_modal.scss": {
+		"createSourceMap": 0,
+		"debugStyle": 0,
+		"decimalPrecision": 10,
+		"fileType": 4,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/css\/_modal.scss",
+		"outputAbbreviatedPath": "\/css\/_modal.css",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 0,
