@@ -185,6 +185,24 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
+	"\/_Source\/transfonter.org-20170618-194203\/demo.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_Source\/transfonter.org-20170618-194203\/demo.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/_Source\/transfonter.org-20170618-194203\/stylesheet.css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_Source\/transfonter.org-20170618-194203\/stylesheet.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
 	"\/_Source\/Untitled\/02372867-011A-41C4-8771-8E3F0386E6B0\/artboard.png": {
 		"fileType": 32768,
 		"ignore": 0,
@@ -4857,7 +4875,7 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 0,
-		"shouldRunAutoprefixer": 0,
+		"shouldRunAutoprefixer": 1,
 		"shouldRunBless": 0,
 		"useLibsass": 0
 		},
@@ -5278,6 +5296,17 @@
 		"initialSize": 12156,
 		"inputAbbreviatedPath": "\/img\/banner_top.jpg",
 		"outputAbbreviatedPath": "\/img\/banner_top.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/bg_header.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 30159,
+		"inputAbbreviatedPath": "\/img\/bg_header.jpg",
+		"outputAbbreviatedPath": "\/img\/bg_header.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
