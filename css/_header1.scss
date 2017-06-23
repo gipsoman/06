@@ -31,8 +31,10 @@ header {
     border-radius: 20px;
     min-height:290px;
     position: relative;
-    background: rgba(0,0,0,.4);
-    background-image: linear-gradient(90deg, rgba(127,71,221,.1) 0%, rgba(251,174,23,.1) 51%, rgba(251,174,23,.1) 100% );
+    background: rgba(0,0,0,0.40);;
+    background-image: 
+    linear-gradient(0deg, rgba(127, 71, 221, 0.05) 0%, rgba(251, 174, 23, 0.05) 51%, rgba(251, 174, 23, 0.05
+      ) 100%),linear-gradient(0deg, rgba(0,0,0,.1) 0%, rgba(255,255,255,.1) 100% );
    
 
   h1 {
@@ -43,7 +45,8 @@ header {
       font-style: italic;
       color: #FFFFFF;
       letter-spacing: -1.5px;
-      // line-height: 1.5rem;
+      // line-height: 26px;
+      line-height: 1.8rem;
   }
   p {
     margin: 0 10px;
@@ -71,6 +74,12 @@ header {
 // background: rgba(0,0,0,0.40);
 // /* Fill 1 Copy 2: */
 // background-image: linear-gradient(-90deg, #000000 0%, #FFFFFF 100%);
+/* Fill 1 Copy: */
+/* Fill 1 Copy 2: */
+// background-image: linear-gradient(-90deg, #000000 0%, #FFFFFF 100%);
+// background-image: linear-gradient(90deg, #7F47DD 0%, #FBAE17 51%, #FBAE17 100%);
+/* ГИПСОКАРТОННЫЕ ПОТОЛ: */
+
 
 
 
