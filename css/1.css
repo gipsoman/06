@@ -783,4 +783,47 @@ html.menu-open .menu-plate {
 .nechet {
   background: #333333; }
 
+footer {
+  background: #000;
+  color: #fff; }
+
+.footer_title {
+  text-align: center;
+  padding-top: 1rem; }
+  .footer_title img {
+    border: 1px solid #fff;
+    margin-right: .5rem; }
+  .footer_title span {
+    font-size: 1.2rem;
+    text-transform: uppercase; }
+
+.footer_tell {
+  text-align: center;
+  margin-top: 1rem; }
+  .footer_tell ul {
+    display: inline-block;
+    list-style: none;
+    text-align: left; }
+    .footer_tell ul li {
+      padding: 5px;
+      color: #ccc; }
+      .footer_tell ul li a {
+        color: #fff;
+        text-decoration: none;
+        float: right; }
+
+.copiright {
+  text-align: center;
+  color: #ccc;
+  padding-bottom: 1rem; }
+  .copiright a {
+    color: #ccc;
+    text-decoration: none; }
+
+.so_icon {
+  padding: 1rem 0;
+  text-align: center; }
+  .so_icon .soc {
+    margin: 0 .3rem; }
+
 /*# sourceMappingURL=1.css.map */
