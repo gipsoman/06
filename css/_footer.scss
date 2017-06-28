@@ -21,16 +21,18 @@ footer {
   text-align: center;
   margin-top: 1rem;
   ul{
-    display: inline-block;
+    // display: inline-block;
+    width: 90%;
     list-style: none;
     text-align: left;
     li{
-      padding: 5px;
+      padding: .75rem 0;
       color: #ccc;
       a{
         color: #fff;
         text-decoration: none;
         float: right;
+        font-size: 1.1rem;
       }
     }
   }
